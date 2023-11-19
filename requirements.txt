@@ -4,5 +4,6 @@ numpy
 seaborn
 ipykernel
 Flask
-
+mlflow
+dvc
 #-e .
